@@ -1,2 +1,2 @@
 # just-for-pratice
-ckeck pull
+-> make a udate with the new data
